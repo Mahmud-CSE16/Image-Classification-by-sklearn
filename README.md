@@ -2,5 +2,14 @@
 
 #### Image Classification by sklearn then made Graphics User Interface by Flask to predict images.
 
+
+
+
 ### Sample One.
 ![screenshots](/Screenshots/ImageClassifier1.png)
+
+
+
+
+### Sample Two.
+![screenshots](/Screenshots/ImageClassifier2.png)
